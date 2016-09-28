@@ -1,6 +1,6 @@
 # slack-weather-clojure
 
-FIXME
+Simply following [this tutorial](http://udayv.com/clojure/2014/08/21/writing-hooks-for-slack-in-clojure/) here to refresh my clj knowledge and build a slack bot
 
 ## Prerequisites
 
